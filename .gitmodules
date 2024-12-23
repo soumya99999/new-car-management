@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Dileep9123/car_management_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Dileep9123/car_management_frontend.git
